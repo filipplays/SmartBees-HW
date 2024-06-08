@@ -7,7 +7,7 @@ The hardware platform includes sensors for:
 - air quality, pressure, humidity and temperature (BME680).
 - Light intensity (Adafruit photoresistor 161).
 - Sound (2x SPH0645LM4H-1-8).
-- Acceleration (ADXL335BCPZ-RL7).
+- Acceleration (LIS2DW12).
 
 Along with the hardware platform the team developed the firmware, LoRaWAN communication methodology, the user interface, and an AI model to analyse the sounds captured from the microphones on the edge.
 
