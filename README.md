@@ -11,4 +11,4 @@ The hardware platform includes sensors for:
 
 Along with the hardware platform the team developed the firmware, LoRaWAN communication methodology, the user interface, and an AI model to analyse the sounds captured from the microphones on the edge.
 
-To find out more about the project visit Hackster.io: [SmartBees](https://www.hackster.io/smartbees)
+To find out more about the project visit Hackster.io: [SmartBees](https://www.hackster.io/smartbees/smartbees-e5f807)
